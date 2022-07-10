@@ -1,4 +1,4 @@
-### Hi there 👋
+### 您好啊指挥官！
 
 <!--
 **Murong-Naiyi/Murong-Naiyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
