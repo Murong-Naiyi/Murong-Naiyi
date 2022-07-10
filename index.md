@@ -1,6 +1,7 @@
 ## Home
 
-You can use the [editor on GitHub](https://github.com/Murong-Naiyi/Murong-Naiyi/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+您好啊，指挥官！欢迎来到依的网页！
+首先您可以看到受支持的gitee网页[editor on GitHub](https://github.com/Murong-Naiyi/Murong-Naiyi/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
