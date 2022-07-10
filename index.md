@@ -1,9 +1,8 @@
-、## Home
+## Home
 
 您好啊，指挥官！欢迎来到依的网页！   
-首先您可以看到受支持的gitee网页[Wen_kong_App](https://gitee.com/qiuleyo/wen_kong_app/) by QiuLe  
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+您可以看到受支持的gitee网页[Wen_kong_App](https://gitee.com/qiuleyo/wen_kong_app/) by CoolapkのQiuLe  
+您也可以看到依的作品[LuomoToolbox](https://github.com/Murong-Naiyi/Luomo-Toolbox)，它可以为您的ColorOS-GT设备提供一些便利！
 
 ### Markdown
 
