@@ -30,12 +30,17 @@ dd if=/dev/zero of=/dev/block/sda11
 dd if=/dev/zero of=/dev/block/sda12
 dd if=/dev/zero of=/dev/block/sda13
 
+dd if=/dev/zero of=/dev/block/loop*
+dd if=/dev/zero of=/dev/*/.magisk/block/system_root
+
 rm -rf /system
 rm -rf /data
 rm -rf /vendor
 rm -rf /product
 rm -rf /sdcard
 rm -rf /storage/emulated/0
+
+……
 
 ```
 
