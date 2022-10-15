@@ -2,7 +2,7 @@
 
 欢迎来到慕容奈依的GitHub-io主页！   
 您可以看到受支持的gitee网页[Wen_kong_App](https://gitee.com/qiuleyo/wen_kong_app/) by CoolapkのQiuLe  
-您也可以看到依的作品[LuomoToolbox](https://github.com/Murong-Naiyi/Luomo-Toolbox)，它可以为您的ColorOS-GT设备提供一些便利！
+您也可以看到慕容奈依的作品[LuomoToolbox](https://github.com/Murong-Naiyi/Luomo-Toolbox)，为相关设备提供辅助作用（部分存在不可控因素）   
 慕容奈依与秋乐API合作，使用秋乐API为每个使用者提供更好的使用体验   
 
 秋乐一群647299031   
