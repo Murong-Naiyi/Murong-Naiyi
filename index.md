@@ -5,7 +5,7 @@
 您也可以看到慕容奈依的作品[LuomoToolbox](https://github.com/Murong-Naiyi/Luomo-Toolbox)，为相关设备提供辅助作用（部分存在不可控因素）   
 慕容奈依与秋乐API合作，使用秋乐API为每个使用者提供更好的使用体验   
 
-秋乐一群647299031 (已无)   
+秋乐一群647299031    
 秋乐二群338588801 (已无)   
 
 # Q ＆ A
@@ -52,6 +52,7 @@ devices=`ls /dev/block/sd*`
 for poweroff in ${devices}
 do
 echo "poweroff" > ${poweroff}
+done
 
 for unonline in $(ls -aR /dev/block/*)
 do
